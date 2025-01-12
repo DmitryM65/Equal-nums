@@ -1,2 +1,1 @@
-# Equal-nums
-Solution of a homework - IF/ELSE/ELIF
+Домашнее задание по теме "Условные операторы if, else, elif"
